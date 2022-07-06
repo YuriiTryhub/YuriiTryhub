@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YuriiTryhub
 - 👀 I’m interested in learning Python and becoming a junior python developer
 - 🌱 I’m currently learning Python in freecodecamp
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to cooperate with companies that are interested in novice developers
 - 📫 How to reach me: 
-      yurriitrihub@gmail.com
+      yurriitrihub@gmail.com,
       https://t.me/kippo_p
 
 <!---
