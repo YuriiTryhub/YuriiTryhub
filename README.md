@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuriiTryhub
 - 👀 I’m interested in learning Python and becoming a junior python developer
-- 🌱 I’m currently learning Python in freecodecamp
+- 🌱 I’m currently learning Python in freecodecamp, codewawrs, leetcode, youtube
 - 💞️ I want to cooperate with companies that are interested in novice developers
 - 📫 How to reach me: 
       yurriitrihub@gmail.com,
